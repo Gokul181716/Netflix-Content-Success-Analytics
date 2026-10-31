@@ -1,0 +1,3 @@
+Model,Clusters,Silhouette Score
+Movie K-Means,3,0.3475874649861095
+TV Show K-Means,3,0.39442355873415064
